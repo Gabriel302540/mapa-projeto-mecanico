@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Mapa de Projeto Mecânico
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Site em construção. O mapa geral dos módulos entra na Fase 3.

@@ -1,3 +1,18 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Celular: título menor para a busca caber no cabeçalho
+@media all and #{$mobile} {
+  .page-title {
+    font-size: 1.25rem;
+  }
+  .search {
+    min-width: 0;
+  }
+}
+
+// Fórmulas longas rolam dentro do próprio bloco, sem alargar a página
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
