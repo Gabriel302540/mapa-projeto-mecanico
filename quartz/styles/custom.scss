@@ -3,7 +3,7 @@
 
 // Celular: título menor para a busca caber no cabeçalho
 @media all and #{$mobile} {
-  .page-title {
+  h2.page-title {
     font-size: 1.25rem;
   }
   .search {

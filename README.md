@@ -1,17 +1,16 @@
-# Quartz v4
+# Mapa de Projeto Mecânico
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Notas de estudo de projeto mecânico (desenho técnico, tolerâncias, GD&T, elementos de máquinas, materiais, fabricação), publicadas com [Quartz v4](https://quartz.jzhao.xyz).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+- Site: https://gabriel302540.github.io/mapa-projeto-mecanico
+- Notas: pasta [`content/`](content/), compatível com Obsidian
+- Modelo de nota: [`content/templates/modelo-nota.md`](content/templates/modelo-nota.md)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Rodar localmente
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```bash
+npm ci
+npx quartz build --serve   # abre em http://localhost:8080
+```
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+As notas são resumos próprios; trechos de livros e normas não são reproduzidos.
