@@ -4,7 +4,10 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+# Obsidian: versiona só as configurações compartilhadas do vault
+content/.obsidian/*
+!content/.obsidian/app.json
+!content/.obsidian/templates.json
 .quartz-cache
 private/
 .replit
