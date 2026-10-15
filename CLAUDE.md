@@ -39,6 +39,12 @@ Use com bom senso, onde ajudam a fixar o conteúdo (cálculos, leitura de desenh
 
 Para "revisão rápida" de módulo, use o mesmo formato com 10 perguntas.
 
+Quadros de tolerância geométrica (GD&T) são escritos em HTML com a classe `fcf`, estilizada em `quartz/styles/custom.scss`:
+
+```
+<span class="fcf"><span>⌖</span><span>Ø0,1 Ⓜ</span><span>A</span><span>B</span></span>
+```
+
 ## Modelo de nota
 
 Use `content/templates/modelo-nota.md`. Frontmatter: `title`, `tags: [modulo, subtema]`, `fontes: [...]`, `status: rascunho | revisado`. Seções: Resumo, O que é, Por que importa no projeto, Como aplicar, Norma relacionada, Exemplo prático, Erros comuns, Ver também.

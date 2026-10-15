@@ -16,3 +16,22 @@
   overflow-x: auto;
   overflow-y: hidden;
 }
+
+// Quadro de tolerância geométrica (GD&T): <span class="fcf"><span>⌖</span><span>Ø0,1 Ⓜ</span><span>A</span></span>
+.fcf {
+  display: inline-flex;
+  border: 1.5px solid var(--dark);
+  font-family: var(--codeFont);
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin: 0.2em 0;
+  & > span {
+    padding: 0 0.6em;
+    border-right: 1.5px solid var(--dark);
+    min-width: 1.2em;
+    text-align: center;
+  }
+  & > span:last-child {
+    border-right: none;
+  }
+}
