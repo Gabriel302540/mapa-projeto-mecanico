@@ -90,6 +90,14 @@ Que linha usar em cada elemento:
 
 Repare que, sem o corte, a vista lateral teria muitas tracejadas (bucha, canal de óleo, furos dos parafusos) sobrepostas. É o sinal clássico de que um **corte A–A** vai deixar o desenho bem mais claro.
 
+> [!question] Exercício
+>
+> Numa vista, uma aresta visível coincide com uma linha de centro. Qual delas é desenhada? E se uma aresta oculta coincidir com uma linha de centro?
+>
+> > [!success]- Resolução
+> >
+> > Pela ordem de prioridade, desenha-se a **aresta visível** no primeiro caso e a **aresta oculta (tracejada)** no segundo. A linha de centro só aparece nos trechos em que não coincide com nenhuma aresta, ou prolongada além do contorno.
+
 ## Erros comuns
 
 - **Linha de centro contínua** ou terminando exatamente na aresta.

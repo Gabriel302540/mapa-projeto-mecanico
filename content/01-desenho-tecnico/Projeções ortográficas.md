@@ -98,6 +98,23 @@ O método usado é indicado na [[Legenda]] por um **símbolo normalizado**: um t
 
 **Erro a evitar aqui:** se esse mancal for comprado de um fabricante americano, o desenho do catálogo estará provavelmente no 3º diedro. A vista superior aparecerá **em cima** da frontal. Lida como 1º diedro, a posição do furo de lubrificação seria interpretada como estando embaixo, um erro que só aparece na montagem.
 
+> [!question] Exercício 1
+>
+> Você recebe um desenho de catálogo em que a vista lateral direita está desenhada à direita da vista frontal e a vista superior está acima dela. Em que diedro está o desenho?
+>
+> > [!success]- Resolução
+> >
+> > **3º diedro.** No 3º diedro cada vista fica do mesmo lado de onde foi observada: a superior em cima e a lateral direita à direita. No 1º diedro seria o contrário.
+
+> [!question] Exercício 2
+>
+> Um bloco tem um furo passante vertical (de cima a baixo). Como esse furo aparece na vista frontal e na vista superior, no 1º diedro?
+>
+> > [!success]- Resolução
+> >
+> > - **Vista superior** (desenhada abaixo da frontal): o furo aparece como um **círculo** em linha contínua larga, com linhas de centro cruzadas.
+> > - **Vista frontal:** o furo está dentro do bloco, então aparece como **duas linhas tracejadas verticais** (as geratrizes do furo), com uma linha de centro traço e ponto entre elas.
+
 ## Erros comuns
 
 - **Misturar os métodos:** colocar a vista superior em cima e a lateral esquerda à direita no mesmo desenho.

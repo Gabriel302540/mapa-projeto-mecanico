@@ -82,6 +82,24 @@ Em casos especiais, a série pode ser estendida multiplicando ou dividindo esses
 - Solução: "DETALHE B — ESCALA 1:1" mostrando dois ou três frisos, com o ângulo, o passo, a profundidade e o raio do fundo cotados.
 - A cota do passo continua sendo **50**, tanto na vista geral quanto no detalhe.
 
+> [!question] Exercício 1
+>
+> Uma peça de 850 mm de comprimento deve ser desenhada numa folha A3 na horizontal (espaço útil de cerca de 390 mm, já descontando as margens). Qual a maior escala normalizada que cabe, deixando 20 % de folga para cotas?
+>
+> > [!success]- Resolução
+> >
+> > Espaço disponível para a peça: $390 \times 0{,}8 = 312$ mm.
+> > Fator mínimo: $850 / 312 \approx 2{,}7$.
+> > Próxima escala normalizada de redução: **1:5** (1:3 e 1:4 não pertencem à série). Em 1:5 a peça ocupa 170 mm, com folga de sobra. Se a folga parecer excessiva, a alternativa é uma folha A2 em 1:2 (425 mm no papel).
+
+> [!question] Exercício 2
+>
+> Num detalhe em escala 5:1, um raio de concordância aparece com 10 mm no papel. Qual é o raio real e o que se escreve na cota?
+>
+> > [!success]- Resolução
+> >
+> > Na ampliação 5:1, a medida no papel é 5 vezes a real: raio real $= 10/5 = 2$ mm. A cota é **R2**.
+
 ## Erros comuns
 
 - **Cotar com o valor medido no papel** em vez do valor real. Num desenho 1:5, escrever "120" para uma peça de 600 mm.

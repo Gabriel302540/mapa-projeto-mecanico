@@ -29,9 +29,11 @@ Use com bom senso, onde ajudam a fixar o conteúdo (cálculos, leitura de desenh
 
 ```
 > [!question] Exercício 1
+>
 > Enunciado.
 >
 > > [!success]- Resolução
+> >
 > > Passo a passo da solução.
 ```
 

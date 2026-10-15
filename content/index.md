@@ -5,6 +5,7 @@ title: Mapa de Projeto Mecânico
 Notas de estudo de projeto mecânico, organizadas por módulo e ligadas entre si. O foco é o que um projetista usa no dia a dia: desenho, tolerâncias, elementos de máquinas, materiais e fabricação, sempre com exemplos da indústria (moenda, caldeiraria, transmissão de potência).
 
 > [!info] Como usar
+>
 > Navegue pelo **Explorador** à esquerda, use a **busca** para achar um conceito ou abra o **grafo** à direita para ver como as notas se conectam. Convenções e legenda em [[00-indice/index|Como usar este mapa]].
 
 ## Mapa dos módulos
