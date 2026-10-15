@@ -29,4 +29,3 @@ Toda nota segue o mesmo roteiro: resumo, o que é, por que importa no projeto, c
 Os módulos são preenchidos um de cada vez. Ao terminar um módulo, o índice dele ganha uma seção de **revisão rápida** com 10 perguntas de autoavaliação.
 
 Voltar ao [[index|Início]].
-teste de sincronização
