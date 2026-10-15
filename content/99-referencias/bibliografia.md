@@ -11,6 +11,8 @@ tags: [referencias]
 - **Desenhista Mecânico**: autor e edição ⚠️ verificar no seu exemplar
 - PROVENZA, F. **Projetista de Máquinas** e **Desenhista de Máquinas**. PRO-TEC. ⚠️ verificar edição
 - SILVA, A.; RIBEIRO, C. T.; DIAS, J.; SOUSA, L. **Desenho Técnico Moderno**. LTC. ⚠️ verificar edição
+- FRENCH, T. E.; VIERCK, C. J. **Desenho Técnico e Tecnologia Gráfica**. Globo. ⚠️ verificar edição
+- TELECURSO 2000 PROFISSIONALIZANTE. **Leitura e Interpretação de Desenho Técnico Mecânico**. Fundação Roberto Marinho / FIESP. ⚠️ verificar edição
 
 ## Elementos de máquinas
 

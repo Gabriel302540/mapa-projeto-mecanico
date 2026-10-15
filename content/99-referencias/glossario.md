@@ -11,9 +11,15 @@ tags: [referencias]
 
 **Cota:** valor numérico, com linhas auxiliares, que define uma dimensão no desenho.
 
-**Diedro:** cada um dos quatro quadrantes formados por dois planos de projeção perpendiculares. O Brasil usa o 1º diedro; os EUA, o 3º.
+**Diedro:** cada um dos quatro quadrantes formados por dois planos de projeção perpendiculares. O Brasil usa o 1º diedro; os EUA, o 3º. Ver [[Projeções ortográficas]].
 
-**Legenda (carimbo):** quadro no canto da folha com identificação do desenho, escala, material, autor e revisão.
+**Escala:** razão entre a medida no desenho e a medida real da peça (1:1, 1:10, 2:1). Ver [[Escalas]].
+
+**Formato:** tamanho padronizado da folha de desenho (série A, de A0 a A4). Ver [[Formatos de folha]].
+
+**Legenda (carimbo):** quadro no canto da folha com identificação do desenho, escala, material, autor e revisão. Ver [[Legenda]].
+
+**Linha de centro:** linha traço e ponto estreita que indica eixos de simetria e centros de furos. Ver [[Tipos de linha]].
 
 **Memorial de cálculo:** documento que registra as hipóteses, as fórmulas e os resultados que justificam o dimensionamento.
 

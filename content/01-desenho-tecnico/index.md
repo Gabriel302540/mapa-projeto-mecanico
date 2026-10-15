@@ -11,12 +11,12 @@ Todo o resto do site depende disto. Um desenho ambíguo vira peça errada, retra
 ## Tópicos
 Marcados à medida que as notas são escritas.
 
-- [ ] Formatos e folhas de desenho
-- [ ] Legenda (carimbo)
-- [ ] Tipos de linha
+- [x] [[Formatos de folha|Formatos e folhas de desenho]]
+- [x] [[Legenda|Legenda (carimbo)]]
+- [x] [[Tipos de linha]]
 - [ ] Caligrafia técnica
-- [ ] Escalas
-- [ ] Projeções ortográficas (1º e 3º diedro)
+- [x] [[Escalas]]
+- [x] [[Projeções ortográficas|Projeções ortográficas (1º e 3º diedro)]]
 - [ ] Escolha de vistas
 - [ ] Vistas auxiliares
 - [ ] Cortes e seções
@@ -30,13 +30,16 @@ Marcados à medida que as notas são escritas.
 ## Normas principais
 Lista de partida, para conferir no documento original. Nenhum trecho de norma é reproduzido aqui.
 
-- ABNT NBR 16752 — apresentação em folhas de desenho ⚠️ verificar se substituiu a NBR 10068 e a NBR 10582
-- ABNT NBR 16861 — linhas e escrita ⚠️ verificar se substituiu a NBR 8402 e a NBR 8403
+- ABNT NBR 16752:2020 — apresentação em folhas de desenho (formatos, legenda, dobramento e escalas); substituiu a NBR 10582 ⚠️ verificar se também cancelou a NBR 10068 e a NBR 13142
+- ABNT NBR 16861:2020 — linhas e escrita; substituiu a NBR 8403 ⚠️ verificar se também substituiu a NBR 8402
 - ABNT NBR 10067 — princípios gerais de representação
 - ABNT NBR 10126 — cotagem
-- ABNT NBR 8196 — escalas
+- ABNT NBR 8196 — escalas ⚠️ verificar: indicada como cancelada em 2016, com o assunto agora na NBR 16752
 - ABNT NBR 12298 — hachuras
-- ISO 128 (série) — princípios gerais de representação
+- ISO 128 (série) — princípios gerais de representação (128-2 linhas, 128-30 vistas)
+- ISO 216 e ISO 5457 — formatos e leiaute da folha
+- ISO 5455 — escalas
+- ISO 5456-2 — projeções ortográficas
 - ISO 129-1 — cotagem
 - ISO 7200 — campos da legenda
 
