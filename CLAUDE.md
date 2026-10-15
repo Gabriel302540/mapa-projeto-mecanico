@@ -1,10 +1,14 @@
 # Mapa de Projeto Mecânico — instruções do projeto
 
-Site pessoal de estudos de projeto mecânico do Gabriel (Eng. Mecânica UTFPR, estagiário na Raízen: projeto de equipamentos de moenda, padronização de componentes, layout). Publicado com Quartz v4 no GitHub Pages: https://gabriel302540.github.io/mapa-projeto-mecanico. As notas ficam em `content/`, que também é o vault do Obsidian.
+Site pessoal de estudos de projeto mecânico. Publicado com Quartz v4 no GitHub Pages: https://gabriel302540.github.io/mapa-projeto-mecanico. As notas ficam em `content/`, que também é o vault do Obsidian.
 
-O Gabriel é iniciante em Git e Node: explique em português simples o que foi feito e os comandos usados.
+O dono do repositório é iniciante em Git e Node: explique em português simples o que foi feito e os comandos usados.
 
-## Profundidade do conteúdo (pedido explícito do Gabriel)
+## Conteúdo genérico (pedido explícito do dono)
+
+O site é um material de estudo genérico sobre cada assunto. NÃO mencione empresas, instituições de ensino ou pessoas específicas (nem nomes em exemplos de legenda, revisão etc.). Exemplos da indústria (moenda de cana, caldeiraria, transmissão de potência) são bem-vindos, mas sempre genéricos.
+
+## Profundidade do conteúdo (pedido explícito do dono)
 
 Ao escrever notas:
 - Pesquise o máximo de referências possível (livros-texto, normas, catálogos de fabricantes, materiais técnicos confiáveis) antes de escrever, e cite todas.
@@ -17,7 +21,21 @@ Ao escrever notas:
 - Português do Brasil, linguagem técnica mas direta.
 - Fórmulas em LaTeX, unidades no SI.
 - Marque com "⚠️ verificar" qualquer valor ou requisito de norma que deva ser conferido no documento original.
-- Links entre notas com [[wikilinks]] (resolução "shortest", igual ao Obsidian).
+- Links entre notas com [[wikilinks]] (resolução "shortest", igual ao Obsidian). Nomes de arquivo curtos e únicos no vault inteiro; o título completo vai no `title` do frontmatter.
+
+## Exercícios e elementos interativos
+
+Use com bom senso, onde ajudam a fixar o conteúdo (cálculos, leitura de desenho, escolha de ajuste), não em todas as notas. Formato: callout de pergunta com a resolução recolhida, que o leitor abre com um clique:
+
+```
+> [!question] Exercício 1
+> Enunciado.
+>
+> > [!success]- Resolução
+> > Passo a passo da solução.
+```
+
+Para "revisão rápida" de módulo, use o mesmo formato com 10 perguntas.
 
 ## Modelo de nota
 

@@ -67,7 +67,7 @@ Como fica a legenda depois da alteração:
 | Escala | 1:10 (indicadas) | (igual) |
 | Data | 03/2025 | **10/2026** |
 
-No **quadro de revisões**, entra uma linha: "Rev. C — 10/2026 — Raio de concordância R5→R15 no ressalto do mancal; material alterado para SAE 4140 T&R — Gabriel / verificado por ...". No desenho, o raio alterado recebe o símbolo de revisão "C".
+No **quadro de revisões**, entra uma linha: "Rev. C — 10/2026 — Raio de concordância R5→R15 no ressalto do mancal; material alterado para SAE 4140 T&R — elaborado por / verificado por (iniciais)". No desenho, o raio alterado recebe o símbolo de revisão "C".
 
 O resultado é que qualquer cópia **Rev. B** que ainda esteja na oficina é imediatamente reconhecida como obsoleta.
 
